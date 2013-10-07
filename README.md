@@ -8,8 +8,14 @@ Start date: 2013-05-01
 	Robin (in 10 years) = 2023-05-01
 
 
-Henry wins over robin on khanacademy.org in 1 year
---------------------------------------------------
+Mastery on khanacademy.org in 1 year
+------------------------------------
+
+Contestants:
+* Henry
+* Robin
+* Oskar
+* Lucas
 
 The challenger with the most number of mastered skills after 1 years wins.
 (Robin has no chance lulz) <('.'<)
