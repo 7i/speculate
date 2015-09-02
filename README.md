@@ -7,6 +7,7 @@ Start date: 2013-05-01
 	break even          = 2020-11-01
 	Robin (in 10 years) = 2023-05-01
 
+End date: 2015-08-19 (https://golang.org/doc/go1.5#c)
 
 Mastery on khanacademy.org in 1 year
 ------------------------------------
