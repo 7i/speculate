@@ -21,5 +21,5 @@ Contestants:
 The challenger with the most number of mastered skills after 1 years wins.
 (Robin has no chance lulz) <('.'<)
 
-Start date: 2013-10-06  
-End date: 2014-10-06
+Start date: 2013-10-06
+End date: 2014-10-06 (Henry won with 292 problems solved, 1 point ahead of Robin)
