@@ -23,3 +23,7 @@ The challenger with the most number of mastered skills after 1 years wins.
 
 Start date: 2013-10-06
 End date: 2014-10-06 (Henry won with 292 problems solved, 1 point ahead of Robin)
+
+# Total run time of the Opensource-ami script, on a x220 laptop
+
+Max 10 minutes for complete extraction of game assets from Diablo 1.
