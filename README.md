@@ -25,3 +25,8 @@ End date: 2014-10-06 (Henry won with 292 problems solved, 1 point ahead of Robin
 ## Total run time of the Opensource-ami script, on a x220 laptop
 
 Max 10 minutes for complete extraction of game assets from Diablo 1.
+
+## Total run time to generate all possible maps in Diablo 1
+Danne 7 days
+break even 10.5 days
+Robin 14 days
